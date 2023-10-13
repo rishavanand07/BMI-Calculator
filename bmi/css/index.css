@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    
+}  
+.container{
+    text-align: center;
+    font-size: 40px;
+    margin-top: 100px;
+}
+#height{
+    font-size: 40px;
+}
+#weight{
+  font-size: 40px;
+}
